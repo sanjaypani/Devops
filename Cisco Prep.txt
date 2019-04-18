@@ -1,0 +1,13 @@
+pip3 freeze : to show all the installed packages
+
+pip3 install <camelcase>
+
+import date,time,camelcase,re(regular expression)
+
+json.loads(jsonvaribale)
+
+json.dumps(dict varibale)
+
+https://github.com/Baeldung/spring-security-registration/blob/master/pom.xml
+
+https://www.baeldung.com/registration-with-spring-mvc-and-spring-security
